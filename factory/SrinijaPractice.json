@@ -1,0 +1,9 @@
+{
+	"name": "SrinijaPractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "086f1e4d-ff43-43bb-9642-04e703b17bd8",
+		"tenantId": "fba4837e-45b1-4feb-89ea-9991072acbaa"
+	}
+}
